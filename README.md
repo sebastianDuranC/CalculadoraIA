@@ -70,6 +70,8 @@ La carpeta `__pycache__` es creada automáticamente por Python para almacenar ar
 - google-generativeai
 - sympy
 
+<img width="1299" height="617" alt="image" src="https://github.com/user-attachments/assets/5ca24cdc-a388-4fd2-af32-beddcdf07f96" />
+
 ## Instalación
 
 1. Clonar el repositorio
